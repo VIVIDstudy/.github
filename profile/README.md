@@ -1,6 +1,6 @@
 # VIVID study
 
-An organisation hosting the various analyses of the VIVID study.
+A collection of repos comprising the various analyses of the VIVID study.
 
 #### About the VIVID study profile image
 
